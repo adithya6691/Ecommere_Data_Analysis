@@ -25,7 +25,8 @@ The goal of this project is to analyze a real-world E-commerce dataset to uncove
 - **Libraries:** Pandas, MySQL Connector  
 - **Environment:** Jupyter Notebook / VS Code  
 
----
+**##Dataset link**
+https://drive.google.com/drive/folders/11B3D7nZDlMpIrautqhB94E5AWz5Q9S_0?usp=drive_link
 
 ## 🗄️ Database Design
 
